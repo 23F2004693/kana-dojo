@@ -338,13 +338,13 @@
   {
     "id": 57,
     "text": "\"〜わけがない\" means \"there is no way that...\".",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
     "id": 58,
     "text": "\"〜ようにする\" means \"make an effort to...\".",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
